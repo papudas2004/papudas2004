@@ -8,18 +8,18 @@ I design clean backend architectures, build robust REST APIs, and craft interact
 ### 🛠️ Tech Stack & Skills
 
 #### 💻 Backend & Core Languages
-![Python](https://shields.io)
-![Java](https://shields.io)
-![FastAPI](https://shields.io)
+- **Python**
+- **Java**
+- **FastAPI**
 
 #### 🌐 Frontend & Web Design
-![JavaScript](https://shields.io)
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
+- **JavaScript**
+- **HTML5**
+- **CSS3**
 
 #### 🔧 Tools & Version Control
-![Git](https://shields.io)
-![GitHub](https://shields.io)
+- **Git**
+- **GitHub**
 
 ---
 
@@ -34,4 +34,3 @@ I design clean backend architectures, build robust REST APIs, and craft interact
 📫 **How to reach me:**
 * 💼 **LinkedIn:** [papu-das-1598b1317](https://linkedin.com)
 * 📧 **Email:** pdas91450@gmail.com
-
