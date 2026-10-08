@@ -1,78 +1,94 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,50:1e3a8a,100:2563eb&text=PAPU%20DAS&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%26%20Full-Stack%20Developer&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+# PAPU DAS
+
+### Software Engineer · Backend & Full-Stack Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=64748B&center=true&vCenter=true&width=600&lines=Building+clean+backend+architectures;Designing+robust+REST+APIs;Creating+interactive+web+experiences;Learning%2C+building%2C+improving." />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=700&lines=Backend+%26+Full-Stack+Developer;Python+%7C+FastAPI+%7C+Java;Building+Clean+%26+Scalable+REST+APIs;Creating+Interactive+Web+Experiences;Always+Learning+%26+Building+%F0%9F%9A%80" />
-
-<br/>
-
-<a href="https://linkedin.com/in/papu-das-1598b1317">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:pdas91450@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-111827?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/papu-das-1598b1317)
+[![Email](https://img.shields.io/badge/Email-Contact-111827?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:pdas91450@gmail.com)
 
 </div>
 
 ---
 
-## `> whoami`
+## About
 
-```python
-class PapuDas:
+I'm **Papu Das**, a Software Engineer focused on **backend and full-stack development**.
 
-    role = "Software Engineer"
-    focus = ["Backend Development", "Full-Stack Development"]
+I enjoy turning ideas into practical applications, designing REST APIs, and building clean web experiences with modern development technologies.
 
-    languages = ["Python", "Java", "JavaScript"]
+> **Build with purpose. Learn continuously. Improve every day.**
 
-    backend = ["FastAPI"]
-    web = ["HTML5", "CSS3"]
-    tools = ["Git", "GitHub"]
+---
 
-    mindset = "Learn → Build → Improve → Repeat"
-```
+## Technology
+
+<div align="center">
+
+|               |                            |
+| ------------- | -------------------------- |
+| **Languages** | Python · Java · JavaScript |
+| **Backend**   | FastAPI                    |
+| **Web**       | HTML5 · CSS3               |
+| **Tools**     | Git · GitHub               |
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,java,fastapi,js,html,css,git,github&theme=light" />
+
+</div>
+
+---
+
+## What I Build
+
+<div align="center">
+
+### `01` — Backend
+
+**Clean architectures · REST APIs · FastAPI**
+
+### `02` — Full-Stack
+
+**Frontend experiences · Web interfaces · API integration**
+
+### `03` — Continuous Growth
+
+**Python · Java · JavaScript · Backend development**
+
+</div>
+
+---
+
+## GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=PapuDas&show_icons=true&hide_border=true&theme=transparent&title_color=111827&text_color=64748B&icon_color=2563EB&rank_icon=github" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PapuDas&layout=compact&hide_border=true&theme=transparent&title_color=111827&text_color=64748B" width="38%"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=PapuDas&theme=transparent&hide_border=true&ring=2563EB&fire=2563EB&currStreakLabel=111827" />
+
+</div>
 
 ---
 
 <div align="center">
 
-## ⚡ TECHNOLOGIES
+### Let's build something useful.
 
-<img src="https://skillicons.dev/icons?i=python,java,fastapi,javascript,html,css,git,github&perline=8" />
+<a href="https://linkedin.com/in/papu-das-1598b1317">LinkedIn</a>
+   ·    <a href="mailto:pdas91450@gmail.com">Email</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=PapuDas&style=flat&color=2563EB&label=VISITORS" />
 
 </div>
-
----
-
-## `> what I do`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ⚙️ Backend Engineering
-
-Building structured and reliable backend systems with **Python & FastAPI**.
-
-* REST API development
-* Backend architecture
-* API integration
-* Clean & maintainable code
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🌐 Full-Stack Development
-
-Creating interactive web applications using modern web technologies.
-
-* JavaScript
-* HTML5
-* CSS3
-* Frontend ↔ Backen
