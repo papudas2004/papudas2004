@@ -1,191 +1,78 @@
 <div align="center">
 
-# 👋 Hi, I'm **Papu Das**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,50:1e3a8a,100:2563eb&text=PAPU%20DAS&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%26%20Full-Stack%20Developer&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
-### 🚀 Software Engineer • Backend Developer • Full-Stack Developer
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+REST+APIs+with+FastAPI;Developing+Full-Stack+Web+Applications;Learning+%26+Building+with+Python+and+Java;Turning+Ideas+into+Web+Applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=700&lines=Backend+%26+Full-Stack+Developer;Python+%7C+FastAPI+%7C+Java;Building+Clean+%26+Scalable+REST+APIs;Creating+Interactive+Web+Experiences;Always+Learning+%26+Building+%F0%9F%9A%80" />
 
 <br/>
 
 <a href="https://linkedin.com/in/papu-das-1598b1317">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
+&nbsp;
 <a href="mailto:pdas91450@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## `> whoami`
 
-```text
-👨‍💻 Software Engineer
-⚙️ Backend & Full-Stack Developer
-🐍 Python & FastAPI
-☕ Java
-🌐 JavaScript • HTML5 • CSS3
-🔧 Git & GitHub
+```python
+class PapuDas:
+
+    role = "Software Engineer"
+    focus = ["Backend Development", "Full-Stack Development"]
+
+    languages = ["Python", "Java", "JavaScript"]
+
+    backend = ["FastAPI"]
+    web = ["HTML5", "CSS3"]
+    tools = ["Git", "GitHub"]
+
+    mindset = "Learn → Build → Improve → Repeat"
 ```
 
-I design **clean backend architectures**, build **robust REST APIs**, and create **interactive web experiences**.
-
-I'm continuously learning, building, and improving my development skills through practical projects.
-
 ---
-
-## ⚡ What I Work With
 
 <div align="center">
 
-### Backend & Programming
+## ⚡ TECHNOLOGIES
 
-<img src="https://skillicons.dev/icons?i=python,java,fastapi" />
-
-### Frontend & Web
-
-<img src="https://skillicons.dev/icons?i=javascript,html,css" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github" />
+<img src="https://skillicons.dev/icons?i=python,java,fastapi,javascript,html,css,git,github&perline=8" />
 
 </div>
 
 ---
 
-## 🧠 My Development Focus
+## `> what I do`
 
-<table align="center">
+<table>
 <tr>
-<td align="center" width="250">
+<td width="50%" valign="top">
 
-### 🐍 Python
+### ⚙️ Backend Engineering
 
-Building backend applications and APIs
+Building structured and reliable backend systems with **Python & FastAPI**.
 
-</td>
-
-<td align="center" width="250">
-
-### ⚡ FastAPI
-
-Developing fast and structured REST APIs
+* REST API development
+* Backend architecture
+* API integration
+* Clean & maintainable code
 
 </td>
 
-<td align="center" width="250">
+<td width="50%" valign="top">
 
-### ☕ Java
+### 🌐 Full-Stack Development
 
-Strengthening core programming and development skills
+Creating interactive web applications using modern web technologies.
 
-</td>
-</tr>
-
-<tr>
-<td align="center" width="250">
-
-### 🌐 JavaScript
-
-Creating interactive web experiences
-
-</td>
-
-<td align="center" width="250">
-
-### 🎨 Web
-
-HTML5 & CSS3 based interfaces
-
-</td>
-
-<td align="center" width="250">
-
-### 🔧 Git
-
-Version control and project management
-
-</td>
-</tr>
-</table>
-
----
-
-# 📊 GitHub Dashboard
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=PapuDas&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PapuDas&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PapuDas&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-|      Category      | Technologies               |
-| :----------------: | :------------------------- |
-|    💻 Languages    | Python • Java • JavaScript |
-|     🚀 Backend     | FastAPI                    |
-|       🌐 Web       | HTML5 • CSS3               |
-| 🔧 Version Control | Git • GitHub               |
-
-</div>
-
----
-
-## 🌱 Currently Growing
-
-<div align="center">
-
-```text
-Backend Development   ███████████████░░░  Learning
-REST APIs             ████████████████░░  Building
-Python                ████████████████░░  Improving
-Java                  ██████████████░░░░  Improving
-Web Development       ███████████████░░░  Building
-Git & GitHub          █████████████████░  Using
-```
-
-</div>
-
----
-
-## 🌐 Let's Connect
-
-<div align="center">
-
-<a href="https://linkedin.com/in/papu-das-1598b1317">
-<img src="https://img.shields.io/badge/LinkedIn-Papu%20Das-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:pdas91450@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-pdas91450%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 *Build. Learn. Improve. Repeat.*
-
-<img src="https://komarev.com/ghpvc/?username=PapuDas&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS"/>
-
-</div>
+* JavaScript
+* HTML5
+* CSS3
+* Frontend ↔ Backen
